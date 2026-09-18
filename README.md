@@ -100,7 +100,7 @@ Terminal 2:
   <tr>
     <td align="center">
     <a href="https://github.com/tazdikorshan">
-        <img src="https://avatars.gihubuserscontent.com/tazdikorshan" width="100px;" alt="Orshan"><br />
+        <img src="https://avatars.gihubusercontent.com/tazdikorshan" width="100px;" alt="Orshan"><br />
         <sub><b>Tazdik Wazi Orshan</b></sub>
       </a>
     </td>
@@ -142,3 +142,7 @@ Terminal 2:
     </td>
   </tr>
 </table>
+
+## Notes
+
+- The live deployment is currently unavailable because SSH access to the server is no longer working. As a result, GitHub Actions cannot transfer updated application files to the server when changes are pushed to the repository.
