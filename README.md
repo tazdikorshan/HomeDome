@@ -100,7 +100,7 @@ Terminal 2:
   <tr>
     <td align="center">
     <a href="https://github.com/tazdikorshan">
-        <img src="https://avatars.gihubusercontent.com/tazdikorshan" width="100px;" alt="Orshan"><br />
+        <img src="https://github.com/tazdikorshan.png" width="100px;" alt="Orshan"><br />
         <sub><b>Tazdik Wazi Orshan</b></sub>
       </a>
     </td>
